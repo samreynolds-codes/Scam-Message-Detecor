@@ -1,1 +1,1 @@
-# Scam-Message-Detecor
+# scam_detector
